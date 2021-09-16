@@ -17,7 +17,7 @@ namespace primeiraAula
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CadastroUsuario());
+            Application.Run(new FraseDia());
         }
     }
 }
